@@ -1,5 +1,7 @@
 # Dev Notes
 
+<br/>
+
 # Table of Contents
 
 1. [Disclaimer](#disclaimer)
@@ -8,6 +10,8 @@
     - 1.3. [References and Tools](#references-and-tools)
 2. [General Topics](#general-topics)
 3. [Link To Other Resources](#link-to-other-resources)
+
+<br/>
 
 # Disclaimer
 
