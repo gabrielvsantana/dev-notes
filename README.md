@@ -1,4 +1,8 @@
-# Dev Notes
+# $ dev-notes
+
+<p align="center">
+  <img src="./dev-notes.png" alt="dev-notes logo" />
+</p>
 
 <br/>
 
@@ -10,6 +14,7 @@
     - 1.3. [References and Tools](#references-and-tools)
 2. [General Topics](#general-topics)
 3. [Link To Other Resources](#link-to-other-resources)
+4. [References](#references)
 
 <br/>
 
@@ -84,3 +89,12 @@ Use this piece of text in other repositories:
 
 This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
 ```
+# For More Dev Notes
+
+This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
+
+<br/>
+
+# References
+
+The image was created using [Adobe Express](https://express.adobe.com/) free templates.
