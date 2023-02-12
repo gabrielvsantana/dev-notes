@@ -64,7 +64,7 @@ In alphabetical order:
 1. AWS
 1. Data Structures & Algorithms
 1. Design Patterns
-1. Dev Productivity
+1. [Dev Productivity](https://github.com/gabrielvsantana/dev-productivity-notes)
 1. Docker
 1. CI/CD
 1. [Git Workflow](https://github.com/gabrielvsantana/git-notes)
