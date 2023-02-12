@@ -73,7 +73,7 @@ In alphabetical order:
 1. Node
 1. [Regex](https://github.com/gabrielvsantana/regex-notes)
 1. REST
-1. S[QL and PostgreSQL](https://github.com/gabrielvsantana/sql-notes)
+1. [SQL and PostgreSQL](https://github.com/gabrielvsantana/sql-notes)
 1. Tests
 1. TypeScript
 
