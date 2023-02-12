@@ -1,8 +1,6 @@
 # $ dev-notes
 
-<p align="center">
-  <img src="./dev-notes.png" alt="dev-notes logo" />
-</p>
+![dev-notes](./dev-notes.png)
 
 <br/>
 
@@ -62,21 +60,22 @@ A variety of tools were utilized in the creation of this content, including but 
 
 In alphabetical order:
 
-- Algorithms
-- Auth
-- Data Structures
-- Design Patterns
-- Docker
-- CI/CD
-- Git Workflow
-- GraphQL
-- JavaScript
-- Node
-- Regex
-- REST
-- SQL and PostgreSQL
-- Tests
-- TypeScript
+1. [Auth]()
+1. [AWS]()
+1. [Data Structures & Algorithms]()
+1. [Design Patterns]()
+1. [Dev Productivity]()
+1. [Docker]()
+1. [CI/CD]()
+1. [Git Workflow](https://github.com/gabrielvsantana/git-notes)
+1. [GraphQL]()
+1. [JavaScript]()
+1. [Node]()
+1. [Regex](https://github.com/gabrielvsantana/regex-notes)
+1. [REST]()
+1. [SQL and PostgreSQL](https://github.com/gabrielvsantana/sql-notes)
+1. [Tests]()
+1. [TypeScript]()
 
 <br/>
 
@@ -89,9 +88,6 @@ Use this piece of text in other repositories:
 
 This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
 ```
-# For More Dev Notes
-
-This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
 
 <br/>
 
