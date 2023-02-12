@@ -60,22 +60,22 @@ A variety of tools were utilized in the creation of this content, including but 
 
 In alphabetical order:
 
-1. [Auth]()
-1. [AWS]()
-1. [Data Structures & Algorithms]()
-1. [Design Patterns]()
-1. [Dev Productivity]()
-1. [Docker]()
-1. [CI/CD]()
+1. Auth
+1. AWS
+1. Data Structures & Algorithms
+1. Design Patterns
+1. Dev Productivity
+1. Docker
+1. CI/CD
 1. [Git Workflow](https://github.com/gabrielvsantana/git-notes)
-1. [GraphQL]()
-1. [JavaScript]()
-1. [Node]()
+1. GraphQL
+1. JavaScript
+1. Node
 1. [Regex](https://github.com/gabrielvsantana/regex-notes)
-1. [REST]()
-1. [SQL and PostgreSQL](https://github.com/gabrielvsantana/sql-notes)
-1. [Tests]()
-1. [TypeScript]()
+1. REST
+1. S[QL and PostgreSQL](https://github.com/gabrielvsantana/sql-notes)
+1. Tests
+1. TypeScript
 
 <br/>
 
